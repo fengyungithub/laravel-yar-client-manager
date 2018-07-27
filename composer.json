@@ -1,0 +1,26 @@
+{
+    "name": "fengyun/laravel-yar-client-manager",
+    "description": "laravel yar client manager",
+    "keywords": [
+        "laravel",
+        "yar",
+        "client"
+    ],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "authors": [
+        {
+            "name": "Feng Yun",
+            "email": "415576254@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "link1st\\Easemob\\": "src/"
+        }
+    }
+}
